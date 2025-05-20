@@ -2,6 +2,7 @@ body{
     background-color: black;
     margin: 0;
     padding: 0;
+    font-family: "Century gothic";
 }
 #potpis{
     margin: 0;
@@ -10,8 +11,27 @@ body{
     height: 80px;
     background-color: white;
     display: block;
+
 }
 #glavnaSlika{
     width: 60px;
     height: 80px;
+}
+#linkovi{
+    width: fit-content;
+    height: fit-content;
+    margin-top: -34px;
+    margin-left: 15.2px;
+}
+#linkovi img{
+    width: 7px;
+    height: 7px;
+}
+#eestecLink{
+    color: #e52a30;
+    font-size: 3px;
+    text-decoration: none;
+    display: block;
+    margin-left: 9px;
+    margin-top: -3px;
 }
