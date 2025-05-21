@@ -43,7 +43,7 @@ body{
 #podaci p{
     margin: 0;
 }
-.mail{
+.mail img{
     width: 0.8ex;
     height: 0.8ex;
     display: inline-block;
@@ -55,4 +55,10 @@ body{
     display: block;
     margin-top: -4ex;
     margin-left: 3ex;
+}
+#kont2, #kont3{
+    margin-top: -0.5ex;
+}
+#kontakt{
+    margin-top: 1ex;
 }
