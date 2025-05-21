@@ -57,8 +57,9 @@ body{
     margin-left: 3ex;
 }
 #kont2, #kont3{
-    margin-top: -0.5ex;
+    margin-top: -0.4ex;
 }
-#kontakt{
-    margin-top: 1ex;
+#kont3 p{
+    font-size: 0.3rem;
+    color: #333333;
 }
