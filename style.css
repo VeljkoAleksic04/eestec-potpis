@@ -11,9 +11,8 @@ body{
     height: 80px;
     background-color: white;
     display: block;
-
 }
-#glavnaSlika{
+#levaSlika, #glavnaSlika{
     width: 60px;
     height: 80px;
 }
@@ -34,4 +33,12 @@ body{
     display: block;
     margin-left: 9px;
     margin-top: -3px;
+}
+#podaci{
+    width: fit-content;
+    margin-top: -9ex;
+    margin-left: 7.5ex;
+}
+#podaci p{
+    margin: 0;
 }
