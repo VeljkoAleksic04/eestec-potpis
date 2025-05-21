@@ -19,20 +19,21 @@ body{
 #linkovi{
     width: fit-content;
     height: fit-content;
-    margin-top: -34px;
-    margin-left: 15.2px;
+    margin-top: -4ex;
+    margin-left: 1.8ex;
 }
 #linkovi img{
-    width: 7px;
-    height: 7px;
+    width: 0.8ex;
+    height: 0.8ex;
 }
 #eestecLink{
     color: #e52a30;
-    font-size: 3px;
+    font-size: 0.2rem;
     text-decoration: none;
     display: block;
-    margin-left: 9px;
-    margin-top: -3px;
+    margin-left: 0.2ex;
+    margin-top: -1.5ex;
+    text-align: center;
 }
 #podaci{
     width: fit-content;
@@ -41,4 +42,17 @@ body{
 }
 #podaci p{
     margin: 0;
+}
+.mail{
+    width: 0.8ex;
+    height: 0.8ex;
+    display: inline-block;
+}
+.mailText{
+    text-decoration: underline;
+    color: #333333;
+    font-size: 0.3rem;
+    display: block;
+    margin-top: -4ex;
+    margin-left: 3ex;
 }
